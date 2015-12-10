@@ -1,0 +1,25 @@
+<style type="text/css">
+body {
+    overflow:hidden;
+}
+.expnd
+{
+    height:100%;
+    width:100%;
+    background:#000; 
+    margin 30px; 
+    z-index:100; 
+    position:fixed; 
+    top:0; 
+    left:0;
+}
+.cover{
+    z-index:110;
+    height:100%;
+    width:100%;
+    position:fixed;
+    top:0;
+    left:0;
+}
+
+</style>
